@@ -113,7 +113,7 @@ h1, h2, h3 { font-family: 'Cormorant Garamond', serif; }
     position: fixed;
     inset: 0;
 
-    background-image: url("aassets/images/Depan.png"); 
+    background-image: url("assets/images/Depan.png"); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
